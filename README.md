@@ -13,3 +13,7 @@ Some features of the game:
 
 Some screenshots of the game are attached below.
 
+![Gameplay](/screenshots/1.png?raw=true "Gameplay")
+![Gameplay](/screenshots/2.png?raw=true "Gameplay")
+![Gameplay](/screenshots/3.png?raw=true "Gameplay")
+![Gameplay](/screenshots/4.png?raw=true "Gameplay")
