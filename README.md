@@ -9,7 +9,7 @@ Some features of the game:
 3. Sounds are available in the game.
 4. Plane trail is available
 5. Points are deducted for escaping enemies.
-6. Movine outside the visible game area is not allowed.
+6. Moving outside the visible game area is not allowed.
 
 Some screenshots of the game are attached below.
 
